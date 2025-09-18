@@ -1,4 +1,2 @@
-github.com/bwmarrin/discordgo v0.26.1 h1:u4DtpRnLf7GukKJ1yEx5G0X7u0RxnAw7xFSbQ9e0+u0=
-github.com/bwmarrin/discordgo v0.26.1/go.mod h1:6bP8jCqM6GZkm5F5pF+bT6OYNKDKTJh8zoQ2h2B77pA=
-github.com/gin-gonic/gin v1.9.2 h1:KNw4wh0t+0lRZkZ5qC2J7hHzljj9sqPaPp9M+UMLz2E=
-github.com/gin-gonic/gin v1.9.2/go.mod h1:/hI3DWr2U0nJpp4JgF+v5n2QbEb2XdPZUpI4N+T3lFI=
+github.com/bwmarrin/discordgo v0.26.1 h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
+github.com/gin-gonic/gin v1.9.2 h1:PUT-VALID-CHECKSUM-HERE=h1:NJZpH+1AfhIcyQsPeuBKsUtYrRnjkyu0kIVMCHkZtRY=
